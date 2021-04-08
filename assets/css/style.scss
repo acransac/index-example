@@ -4,4 +4,7 @@
 @import "{{ site.theme}}";
 
 section {
+  float: none;
+  padding-bottom: 0;
+  width: auto;
 }
