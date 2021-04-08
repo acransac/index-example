@@ -1,37 +1,104 @@
-## Welcome to GitHub Pages
+---
+title: An example output from index
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/acransac/index-example/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# S&P 500
+## Relative Market Value
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+     117.98 ┤                                                            ╭ 
+     115.05 ┤                                                       ╭────╯ 
+     112.11 ┤                                        ╭────╮         │      
+     109.17 ┤                                        │    │         │      
+     106.23 ┤                                        │    ╰────╮    │      
+     103.29 ┤                                   ╭────╯         ╰────╯      
+     100.36 ┼─────────╮                         │                          
+      97.42 ┤         │                    ╭────╯                          
+      94.48 ┤         │               ╭────╯                               
+      91.54 ┤         ╰─────╮         │                                    
+      88.60 ┤               │    ╭────╯                                    
+      85.67 ┤               │    │                                         
+      82.73 ┤               │    │                                         
+      79.79 ┤               │    │                                         
+      76.85 ┤               ╰────╯                                         
+             ─────────────────────────────────────────────────────────────>
+             Jan   Feb Mar   Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec  
+             2020                                                         
 
-### Markdown
+### Highlights
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Highlights     | Value          |
+| -------------- | -------------- |
+| Begin          | 100.00         |
+| End            | 117.98         |
+| Min            | 76.85          |
+| Max            | 117.98         |
+| Last Variation | +2.97 (+2.58%) |
 
-```markdown
-Syntax highlighted code block
+### History
 
-# Header 1
-## Header 2
-### Header 3
+| Date        | Index Value |
+| ----------- | ----------- |
+| Jan 1, 2020 | 100.00      |
+| Feb 1, 2020 | 99.96       |
+| Mar 1, 2020 | 91.87       |
+| Apr 1, 2020 | 76.85       |
+| May 1, 2020 | 88.24       |
+| Jun 1, 2020 | 95.39       |
+| Jul 1, 2020 | 96.87       |
+| Aug 1, 2020 | 102.34      |
+| Sep 1, 2020 | 110.42      |
+| Oct 1, 2020 | 105.55      |
+| Nov 1, 2020 | 102.68      |
+| Dec 1, 2020 | 115.02      |
+| Jan 1, 2021 | 117.98      |
 
-- Bulleted
-- List
+## Return On Investment
 
-1. Numbered
-2. List
+      17.93 ┤                                                            ╭ 
+      15.00 ┤                                                       ╭────╯ 
+      12.06 ┤                                        ╭────╮         │      
+       9.13 ┤                                        │    │         │      
+       6.19 ┤                                        │    ╰────╮    │      
+       3.26 ┤                                   ╭────╯         ╰────╯      
+       0.32 ┼─────────╮                         │                          
+      -2.61 ┤         │                    ╭────╯                          
+      -5.54 ┼         │               ╭────╯                               
+      -8.48 ┤         ╰─────╮         │                                    
+     -11.41 ┤               │    ╭────╯                                    
+     -14.35 ┤               │    │                                         
+     -17.28 ┤               │    │                                         
+     -20.21 ┤               │    │                                         
+     -23.15 ┤               ╰────╯                                         
+             ─────────────────────────────────────────────────────────────>
+             Jan   Feb Mar   Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec  
+             2020                                                         
 
-**Bold** and _Italic_ and `Code` text
+### Highlights
 
-[Link](url) and ![Image](src)
-```
+| Highlights     | Value           |
+| -------------- | --------------- |
+| Begin          | 0.00            |
+| End            | 17.93           |
+| Min            | -23.15          |
+| Max            | 17.93           |
+| Last Variation | +2.91 (+19.40%) |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### History
 
-### Jekyll Themes
+| Date        | Index Value |
+| ----------- | ----------- |
+| Jan 1, 2020 | 0.00        |
+| Feb 1, 2020 | -0.04       |
+| Mar 1, 2020 | -8.13       |
+| Apr 1, 2020 | -23.15      |
+| May 1, 2020 | -11.77      |
+| Jun 1, 2020 | -4.62       |
+| Jul 1, 2020 | -3.13       |
+| Aug 1, 2020 | 2.34        |
+| Sep 1, 2020 | 10.42       |
+| Oct 1, 2020 | 5.55        |
+| Nov 1, 2020 | 2.68        |
+| Dec 1, 2020 | 15.02       |
+| Jan 1, 2021 | 17.93       |
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acransac/index-example/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
