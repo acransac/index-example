@@ -3,8 +3,17 @@
 
 @import "{{ site.theme}}";
 
+@font-face {
+  font-family: "MonospaceRegular";
+  src: url("../fonts/MonospaceRegular/MonospaceRegular.ttf") format("truetype");
+}
+
 section {
   float: none;
   padding-bottom: 0;
   width: auto;
+}
+
+code, pre {
+  font-family: "MonospaceRegular", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
 }
